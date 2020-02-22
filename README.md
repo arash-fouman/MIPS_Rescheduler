@@ -1,0 +1,1 @@
+This code reschedules MIPS processor instructions in run-time, given the decision making constraint alread    y assigned to each individual instrucion. In this test, the constraints are added manually. The project co    nsiders instruction dependencies while reordering the execution.
